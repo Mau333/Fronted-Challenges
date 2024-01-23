@@ -1,1 +1,1 @@
-# Fronted-Challenges
+Solutions of Frontend Mentor challenges
